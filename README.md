@@ -4,7 +4,8 @@ Tugas praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
 
-![App Greeting](./assets/images/VID_001.mp4)
+![App Greeting]<video src="./assets/images/VID_001.mp4" width="300" controls>
+</video>
 
 ## 🛠️ Logic Implemented
 
