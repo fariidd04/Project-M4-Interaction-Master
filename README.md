@@ -6,10 +6,6 @@ Tugas praktikum Minggu 4 - State & Events.
 
 <<<<<<< HEAD
 ![App Greeting](./assets/images/demo.gif)
-=======
-![App Greeting]<video src="./assets/images/VID_001.mp4" width="300" controls>
-</video>
->>>>>>> 63c12e28658bfd9d9c8d653780172dce18b933fb
 
 ## 🛠️ Logic Implemented
 
